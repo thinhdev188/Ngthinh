@@ -1,0 +1,8 @@
+{
+  "name": "Interactive Rainbow Menu",
+  "description": "A vibrant, multi-functional application featuring a colorful menu with utilities like a calculator, math games, and customizable display settings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
